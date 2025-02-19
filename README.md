@@ -1,2 +1,3 @@
-# CA School Board Policy Natural Language Processing 
+# CA School Board Policy Natural Language Processing <img width="429" alt="Screenshot 2025-02-18 at 5 49 11 PM" src="https://github.com/user-attachments/assets/04a36a3b-9d92-4d75-9c98-579b9f140983" />
+
 This project was done for Ten Strands, a non-profit with the goal of bring environmental literacy to K-12 schools within California. The goal of this project was to dtermine if there is a correlation between the language used in school board policies about the environmnet, and implentation of climate friendly action within schools. The data includes school board polcies publically available, which were downloaded since webscraping was not feasible with district firewalls. 
